@@ -1,0 +1,39 @@
+_repo: The-Works-of-Guy-de-Maupassant-Volume-4_17377
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '2005-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories, French -- Translations into English'
+- !lcsh 'French fiction -- Translations into English'
+tableOfContents: The Old Maid -- The Awakening -- In the Spring -- The Jennet -- Rust
+  -- The Substitute -- The Relic -- The Man with the Blue Eyes -- Allouma -- A Family
+  Affair -- The Odalisque of Senichou -- A Good Match -- A Fashionable Woman -- The
+  Carnival of Love -- A Deer Park in the Provinces -- The White Lady -- Caught --
+  Christmas Eve -- Words of Love -- A Divorce Case -- Who Knows? -- Simon's Papa --
+  Paul's Mistress -- The Rabbit -- The Twenty-Five Francs of the Mother Superior --
+  The Venus of Braniza -- La Morillonne -- Waiter, A "Bock" -- Regret -- The Port
+  -- The Hermit -- The Orderly -- Duchoux -- Old Amable -- Magnetism.
+title: The Works of Guy de Maupassant, Volume 4
+url: http://www.gutenberg.org/ebooks/17377
